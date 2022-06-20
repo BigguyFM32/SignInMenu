@@ -1,0 +1,55 @@
+.container {
+  margin: 40px auto;
+  border: 5px solid grey;
+  border-radius: 5px;
+  width: 600px;
+}
+
+#username {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 27px;
+  border-bottom: 2px solid grey;
+  width: 90%;
+  height: 26px;
+  padding: 7px;
+  margin: 15px;
+  border-radius: 5px;
+}
+
+#password {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 27px;
+  border-radius: 2px solid grey;
+  width: 90%;
+  height: 26px;
+  padding: 7px;
+  margin: 15px;
+  border-bottom: 3px solid grey;
+  border-radius: 5px;
+}
+
+.btn {
+  font-size: 27px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 5px;
+  background-color: green;
+  width: 93%;
+  padding: 7px;
+  margin: 15px;
+  cursor: pointer;
+}
+
+.warning {
+  display: block;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: red;
+  margin: 15px;
+}
+
+.main-heading {
+  color: aqua;
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
